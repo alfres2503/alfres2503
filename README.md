@@ -3,7 +3,7 @@
 <h3 align="center">Most demanding code editor's theme critic 🍷</h3>
 
 <div align="center">
-	<img src="https://neocha-content.oss-cn-hongkong.aliyuncs.com/wp-content/uploads/sites/2/2016/11/1041uuu-12.gif" alt="Credits: " width="80%" style="border-radius:10px; box-shadow: rgba(0, 0, 0, 0.35) 0px 3px 10px;">
+	<img src="https://neocha-content.oss-cn-hongkong.aliyuncs.com/wp-content/uploads/sites/2/2016/11/1041uuu-12.gif" alt="Credits: " width="70%">
 </div>
 
 <br />
@@ -23,8 +23,8 @@
 
 <div>
 <p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfres2503&show_icons=true&theme=tokyonight" alt="alfres2503" width="55.5%" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfres2503&langs_count=6&show_icons=true&theme=tokyonight&layout=compact" alt="alfres2503" width="42.2%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfres2503&show_icons=true&theme=dark" alt="alfres2503" width="55.5%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfres2503&langs_count=6&show_icons=true&theme=dark&layout=compact" alt="alfres2503" width="42.2%"/>
 </p>
 <p >&nbsp;
 
