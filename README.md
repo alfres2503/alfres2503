@@ -23,8 +23,8 @@
 
 <div>
 <p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfres2503&show_icons=true&theme=tokyonight" alt="alfres2503" width="55.5%" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfres2503&langs_count=6&show_icons=true&theme=tokyonight&layout=compact" alt="alfres2503" width="42.2%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfres2503&show_icons=true&theme=tokyonight&bg_color=0000" alt="alfres2503" width="55.5%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfres2503&langs_count=6&show_icons=true&theme=tokyonight&layout=compact&bg_color=0000" alt="alfres2503" width="42.2%"/>
 </p>
 <p >&nbsp;
 
