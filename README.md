@@ -8,7 +8,7 @@
 
 <br />
 <p align=center>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width=60 height=40/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width=60 height=40>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width=60 height=40/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=60 height=40/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width=60 height=40/>
@@ -23,8 +23,8 @@
 
 <div>
 <p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfres2503&show_icons=true&theme=dark" alt="alfres2503" width="55.5%" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfres2503&langs_count=6&show_icons=true&theme=dark&layout=compact" alt="alfres2503" width="42.2%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfres2503&show_icons=true&theme=tokyonight" alt="alfres2503" width="55.5%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfres2503&langs_count=6&show_icons=true&theme=tokyonight&layout=compact" alt="alfres2503" width="42.2%"/>
 </p>
 <p >&nbsp;
 
