@@ -1,7 +1,5 @@
 <h1 align="center"> Alfredo Suárez 🌊</h1>
 
-<h3 align="center">Most demanding code editor's theme critic 🍷</h3>
-
 <div align="center">
 	<img src="https://neocha-content.oss-cn-hongkong.aliyuncs.com/wp-content/uploads/sites/2/2016/11/1041uuu-12.gif" alt="Credits: " width="70%">
 </div>
